@@ -1,5 +1,5 @@
-## Name: DEVESH S
-## Register no: 212223230041
+## Name: prashanth raaj s
+## Register no: 212225100035
 
 # Fitting Poisson  distribution
 # Aim : 
